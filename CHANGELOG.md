@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-logging?activeTab=versions
 
+## [8.2.0](https://www.github.com/googleapis/nodejs-logging/compare/v8.1.1...v8.2.0) (2020-11-20)
+
+
+### Features
+
+* Makes remaining LogBucket and LogViews methods public ([c9a69da](https://www.github.com/googleapis/nodejs-logging/commit/c9a69da3cf4ec3e87f30afc22344191a3e43e26a))
+
 ### [8.1.1](https://www.github.com/googleapis/nodejs-logging/compare/v8.1.0...v8.1.1) (2020-11-16)
 
 
